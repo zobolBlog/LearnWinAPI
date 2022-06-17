@@ -1,4 +1,5 @@
-# zobolのOpenGL+QT教学笔记
+# zobol的windows编程教程
+#### 个人公众号：zobol的魔法藏书室 讨论群: 811851762 B站账号：[zobol](https://space.bilibili.com/515270052)  
 
 #### 写作前言
    [ 偶遇图形学](./Doc/00AuthorForeword/01AuthorIntroduceWangShiRuYan.html)  
@@ -8,7 +9,7 @@
 
 #### 1.总述  
 * [1.windows编程入门MessageBox使用](./Doc/1.windows编程入门MessageBox使用 -zobol的windows编程教程.html)  
-* [2](./Doc/02.html)  
+* [2.C++标准库函数：getline函数 定界流输入截取函数](./Doc/2.C++标准库函数：getline函数 定界流输入截取函数 --zobol的windows编程教程.html)  
 * [3](./Doc/03.html)  
 * [4](./Doc/04.html)  
 * [5](./Doc/05.html)  
