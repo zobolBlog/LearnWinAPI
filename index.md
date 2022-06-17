@@ -10,7 +10,7 @@
 #### 1.总述  
 * [1.windows编程入门MessageBox使用](./Doc/1.windows编程入门MessageBox使用 -zobol的windows编程教程.html)  
 * [2.C++标准库函数：getline函数 定界流输入截取函数](./Doc/2.C++标准库函数getline函数 定界流输入截取函数 -zobol的windows编程教程)  
-* [3](./Doc/03.html)  
+* [3.C＋＋逐行读取txt文件数据，利用getline](./Doc/3.C＋＋逐行读取txt文件数据，利用getline -zobol的windows编程教程.html  
 * [4](./Doc/04.html)  
 * [5](./Doc/05.html)  
 * [6](./Doc/06.html)  
